@@ -193,7 +193,7 @@ const App: React.FC = () => {
 
       {/* Footer */}
       <footer className="py-6 text-center text-slate-500 text-xs uppercase tracking-[0.2em] border-t border-slate-900">
-        Powered by Gemini AI • 2024 Strategic Sweeping Corp
+        Powered by Gemini AI • 2025
       </footer>
     </div>
   );
