@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Minesweeper Pro",
+  "description": "A feature-rich Minesweeper game with custom difficulties, sizes, a global leaderboard, and AI-powered victory greetings.",
+  "requestFramePermissions": []
+}
